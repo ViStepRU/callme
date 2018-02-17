@@ -1,7 +1,7 @@
 <?php 
 return array(
 
-	'CallMeDEBUG' => 1, // дебаг сообщения в логе
+	'CallMeDEBUG' => 1, // дебаг сообщения в логе: 1 - пишем, 0 - не пишем
 	'tech' => 'SIP', 
 	'authToken' => 'type_your_token_here', //токен авторизации битрикса
 	'bitrixApiUrl' => 'https://_type_your_url_here', //url к api битрикса (входящий вебхук)
